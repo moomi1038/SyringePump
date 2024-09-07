@@ -2,9 +2,7 @@
 
 ## 1. Outline
 
-I was internship in Teraleader by 2021.03 ~ 2021.12.
-
-This is my Second Python Project in Teraleader (http://teraleader.co.kr).
+This is my first Python Project in Teraleader (http://teraleader.co.kr).
 
 
 ## 2. Goal
